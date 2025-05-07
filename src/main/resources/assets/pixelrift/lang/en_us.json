@@ -1,0 +1,28 @@
+{
+  "item.pixelrift.stat_adaptive_force": "Adaptive Force",
+  "item.pixelrift.turret_icon": "Turret",
+  "item.pixelrift.champion_icon": "Champion",
+  "item.pixelrift.gold_icon": "Gold",
+
+  "item.pixelrift.ornn_q_pillar": "Ornn's Pillar Base Block",
+
+  "item.pixelrift.tryndamere_icon": "Tryndamere",
+  "item.pixelrift.tryndamere_p": "Passive - Battle Fury",
+  "item.pixelrift.tryndamere_q": "Q - Bloodlust",
+  "item.pixelrift.tryndamere_w": "W - Mocking Shout",
+  "item.pixelrift.tryndamere_e": "E - Spinning Slash",
+  "item.pixelrift.tryndamere_r": "R - Undying Rage",
+
+  "item.pixelrift.item_cloak_of_agility": "Cloak of Agility",
+  "item.pixelrift.item_pickaxe": "Pickaxe",
+  "item.pixelrift.item_b_f_sword": "B. F. Sword",
+
+  "item.pixelrift.item_shard_of_infinity": "Shard of Infinity",
+
+  "item.pixelrift.item_infinity_edge": "Infinity Edge",
+
+  "itemgroup.pixelrift.champion_skills": "Champion Skills",
+  "itemgroup.pixelrift.champion_icons": "Champion Icons",
+  "itemgroup.pixelrift.shop_items": "Shop Items",
+  "itemgroup.pixelrift.rift_structures": "Summoner's Rift Structures"
+}

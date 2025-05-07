@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "pixelrift:item_shard_of_infinity",
+    "pixelrift:item_b_f_sword",
+    "pixelrift:item_pickaxe",
+    "pixelrift:item_cloak_of_agility"
+  ],
+  "result": {
+    "count": 1,
+    "id": "pixelrift:item_infinity_edge"
+  }
+}
