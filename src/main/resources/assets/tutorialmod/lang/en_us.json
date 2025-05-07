@@ -1,3 +1,14 @@
 {
-  "item.tutorialmod.test_item": "Test Item"
+  "item.tutorialmod.ornn_q_pillar": "Ornn's Pillar Base Block",
+
+  "item.tutorialmod.tryndamere_icon": "Tryndamere",
+  "item.tutorialmod.tryndamere_p": "Passive - Battle Fury",
+  "item.tutorialmod.tryndamere_q": "Q - Bloodlust",
+  "item.tutorialmod.tryndamere_w": "W - Mocking Shout",
+  "item.tutorialmod.tryndamere_e": "E - Spinning Slash",
+  "item.tutorialmod.tryndamere_r": "R - Undying Rage",
+
+  "itemgroup.tutorialmod.champion_skills": "Champion Skills",
+  "itemgroup.tutorialmod.champion_icons": "Champion Icons",
+  "itemgroup.tutorialmod.rift_structures": "Summoner's Rift Structures"
 }

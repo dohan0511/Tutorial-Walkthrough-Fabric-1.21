@@ -1,5 +1,7 @@
 package net.darkblue0511.tutorialmod;
 
+import net.darkblue0511.tutorialmod.block.ModBlocks;
+import net.darkblue0511.tutorialmod.item.ModItemGroups;
 import net.darkblue0511.tutorialmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -12,6 +14,8 @@ public class TutorialMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
